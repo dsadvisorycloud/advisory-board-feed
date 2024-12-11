@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
         <channel>
-            <title>Open Advisory Boards</title>
-            <link>https://www.advisorycloud.com.com</link>
-            <description>Latest opportunities from our advisory board directory.</description>
+            <title>Advisory Board Companies</title>
+            <link>https://your-landing-page.com</link>
+            <description>Latest updates from the advisory board directory.</description>
             
             <item>
                 <title>Venture Equities</title>
                 <link>https://images.advisorycloud.com/6bce8255-2d81-4d87-973e-a01f1973456c.png</link>
                 <description>Empowering exceptional management teams through strategic investments and founder-friendly acquisiti...</description>
                 <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>NEVE Project, Inc.</title>
-                <link>https://images.advisorycloud.com/91d8ce11-3982-4271-8c92-51aa694bd9f8.png</link>
-                <description>Empowering today’s youth to pursue their dreams in STEM.</description>
-                <pubDate>12/10</pubDate>
-            </item>
-        
-            <item>
-                <title>Stories For Generations</title>
-                <link>https://images.advisorycloud.com/30221bd3-dd4d-4071-a344-5426b1822389.png</link>
-                <description>We bring personalized stories to life with professional music and sound design.</description>
-                <pubDate>12/10</pubDate>
-            </item>
-        
-            <item>
-                <title>MARFI Systems, Inc.</title>
-                <link>https://images.advisorycloud.com/ecbba74e-41a8-48a8-a15a-a8f08e00520f.png</link>
-                <description>Empowering SMBs with scalable, enterprise-level IT and cybersecurity solutions to boost efficiency a...</description>
-                <pubDate>12/10</pubDate>
             </item>
         
             <item>
@@ -398,6 +377,13 @@
             </item>
         
             <item>
+                <title>Technology Peer Advisory Board</title>
+                <link>https://images.advisorycloud.com/3dfd6639-44c3-4803-86d3-2ea8c32cbe10.png</link>
+                <description>A place to share and discuss ideas and topics with other technology professionals.</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>Sales Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/34b9db9a-9155-4ea3-ab93-859aae4f5e43.png</link>
                 <description>A place to share and discuss ideas and topics with other sales professionals.</description>
@@ -430,6 +416,13 @@
                 <link>https://images.advisorycloud.com/5bd7bffe-3ccb-4791-a7e5-3f536cec53bf.png</link>
                 <description>Promoting energy security by developing and offering Zero Net Energy Home solutions.</description>
                 <pubDate>1/22</pubDate>
+            </item>
+        
+            <item>
+                <title>Human Resources Advisory Board</title>
+                <link>https://images.advisorycloud.com/b6c8f832-0b12-490a-9fe0-253d8a2861f4.png</link>
+                <description>A place to share and discuss ideas and topics with other HR professionals.</description>
+                <pubDate>N/A</pubDate>
             </item>
         
             <item>
@@ -647,13 +640,6 @@
                 <link>https://images.advisorycloud.com/b71d9aee-214b-4266-a5a1-9087ff3b0006.png</link>
                 <description>Product development services for performance-critical systems in industrial sectors.</description>
                 <pubDate>3/31</pubDate>
-            </item>
-        
-            <item>
-                <title>Technology Peer Advisory Board</title>
-                <link>https://images.advisorycloud.com/3dfd6639-44c3-4803-86d3-2ea8c32cbe10.png</link>
-                <description>A place to share and discuss ideas and topics with other technology professionals.</description>
-                <pubDate>N/A</pubDate>
             </item>
         
             <item>
@@ -909,6 +895,13 @@
             </item>
         
             <item>
+                <title>MARFI Systems, Inc.</title>
+                <link>https://images.advisorycloud.com/ecbba74e-41a8-48a8-a15a-a8f08e00520f.png</link>
+                <description>Empowering SMBs with scalable, enterprise-level IT and cybersecurity solutions to boost efficiency a...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>Choose Charities Corp</title>
                 <link>https://images.advisorycloud.com/cb50c27c-42fa-41b4-b6d3-03c2f019a4a5.png</link>
                 <description>A creative marketing company dedicated to ending poverty and homelessness in America.</description>
@@ -965,6 +958,13 @@
             </item>
         
             <item>
+                <title>NEVE Project, Inc.</title>
+                <link>https://images.advisorycloud.com/91d8ce11-3982-4271-8c92-51aa694bd9f8.png</link>
+                <description>Empowering today’s youth to pursue their dreams in STEM.</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>Help Your Parents (formerly ParentCare)...</title>
                 <link>https://images.advisorycloud.com/eaa438d3-7955-45f0-abde-a8fa7f285501.png</link>
                 <description>Making it easier for adult children to help their parents as they get older.</description>
@@ -996,6 +996,13 @@
                 <title>2Quip</title>
                 <link>https://images.advisorycloud.com/2991bc21-3ac6-40f1-ab83-c4f452070a6f.png</link>
                 <description>The nation&#x27;s leading Equipment Rental Sharing Marketplace.</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Stories For Generations</title>
+                <link>https://images.advisorycloud.com/30221bd3-dd4d-4071-a344-5426b1822389.png</link>
+                <description>We bring personalized stories to life with professional music and sound design.</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -1136,13 +1143,6 @@
                 <title>I.T. Consulting St Petersburg LLC</title>
                 <link>https://images.advisorycloud.com/70db8419-65d5-459d-afff-1b4f2f259c0c.png</link>
                 <description>CvCISO, Information Security &amp; Risk Assessments (incl. ISO27001), Cybersecurity, and IT supply chain...</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>Human Resources Advisory Board</title>
-                <link>https://images.advisorycloud.com/b6c8f832-0b12-490a-9fe0-253d8a2861f4.png</link>
-                <description>A place to share and discuss ideas and topics with other HR professionals.</description>
                 <pubDate>N/A</pubDate>
             </item>
         
