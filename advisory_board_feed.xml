@@ -1,120 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <rss version="2.0">
         <channel>
-            <title>Latest Advisory Board Opportunities</title>
-            <link>https://www.advisorycloud.com</link>
-            <description>Latest updates from our advisory board directory.</description>
+            <title>Advisory Board Companies</title>
+            <link>https://your-landing-page.com</link>
+            <description>Latest updates from the advisory board directory.</description>
             
             <item>
-                <title>Venture Equities</title>
-                <link>https://images.advisorycloud.com/6bce8255-2d81-4d87-973e-a01f1973456c.png</link>
-                <description>Empowering exceptional management teams through strategic investments and founder-friendly acquisiti...</description>
+                <title>Tum&amp;Bum</title>
+                <link>https://images.advisorycloud.com/b7ececb1-b394-4191-8899-cfbb9255d978.png</link>
+                <description>Transforming toddler sleep and health by redefining wellness solutions for families everywhere.</description>
                 <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>GoodRenewable</title>
-                <link>https://images.advisorycloud.com/0519f9c0-7559-470d-affc-41f647d3a9ef.png</link>
-                <description>Bridging the gap between AI-powered analytics and local ambassadors to boost renewable energy projec...</description>
-                <pubDate>12/11</pubDate>
-            </item>
-        
-            <item>
-                <title>.scene</title>
-                <link>https://images.advisorycloud.com/5e5efc50-f2cd-473c-9971-45fe47d29082.png</link>
-                <description>Building a social API that will enable AI to help empower people to create positive change.</description>
-                <pubDate>12/11</pubDate>
-            </item>
-        
-            <item>
-                <title>Plero</title>
-                <link>https://images.advisorycloud.com/b0e37743-e50b-43f4-b3f1-2d98d90255c8.png</link>
-                <description>Empowering nonprofits with sustainable funding: Plero revolutionizes financial stability through inn...</description>
-                <pubDate>12/11</pubDate>
-            </item>
-        
-            <item>
-                <title>FreeStyle, LLC</title>
-                <link>https://images.advisorycloud.com/cc5bf2f6-0f50-40dc-a58d-81b4a7cd8684.png</link>
-                <description>Combining technology, info sharing, and trust to scale word-of-mouth referrals.</description>
-                <pubDate>12/12</pubDate>
-            </item>
-        
-            <item>
-                <title>MindPod Technologies</title>
-                <link>https://images.advisorycloud.com/81aa2440-cf5e-4046-9951-f29f4be327de.png</link>
-                <description>Comprehensive IT consulting services, from initial design to full-scale implementation.</description>
-                <pubDate>12/13</pubDate>
-            </item>
-        
-            <item>
-                <title>Earthbound Automation</title>
-                <link>https://images.advisorycloud.com/f238dd48-20c8-41ce-acd6-41349f36891e.png</link>
-                <description>Optimizing Industrial Control Systems: Earthbound Automation Boosts Efficiency and Output for Manufa...</description>
-                <pubDate>12/13</pubDate>
-            </item>
-        
-            <item>
-                <title>Industrial Maintenance &amp; Cleaning</title>
-                <link>https://images.advisorycloud.com/d95f4d1b-2895-4513-97a4-c61ddbeff2f5.png</link>
-                <description>ACQUISITION UNDER CONSIDERATION: A trusted industrial maintenance partner with 20 Years of specializ...</description>
-                <pubDate>12/13</pubDate>
-            </item>
-        
-            <item>
-                <title>Beauty Makes Cents</title>
-                <link>https://images.advisorycloud.com/8477bc54-20b9-4bf2-8f70-54ff5ec8d989.png</link>
-                <description>Hyper-personalized beauty &amp; wellness experiences that deliver enhanced well-being, accessibility, an...</description>
-                <pubDate>12/16</pubDate>
-            </item>
-        
-            <item>
-                <title>Bloom</title>
-                <link>https://images.advisorycloud.com/3a2531df-26db-49e9-8806-1e5445912acd.png</link>
-                <description>Revolutionizing personal wellness with an all-in-one health app that generates smart insights from w...</description>
-                <pubDate>12/17</pubDate>
-            </item>
-        
-            <item>
-                <title>Dreams Fulfilled Corporation</title>
-                <link>https://images.advisorycloud.com/63360c83-3644-4cba-aaad-11bf28abdfee.png</link>
-                <description>Lean Six-Sigma Kaizen consulting.</description>
-                <pubDate>12/17</pubDate>
-            </item>
-        
-            <item>
-                <title>Jennifer&#x27;s Cake Dessigns LLC</title>
-                <link>https://images.advisorycloud.com/1dae8722-650e-4891-8563-88ce33205cd6.png</link>
-                <description>Crafting Edible Masterpieces: Where Artistry Meets Flavor in Custom Cake Design</description>
-                <pubDate>12/17</pubDate>
-            </item>
-        
-            <item>
-                <title>BluePrint Publishing</title>
-                <link>https://images.advisorycloud.com/5dcd0bba-bf01-4a79-81b0-2582ee37c083.png</link>
-                <description>Publishing 21st century integrated and innovative education.</description>
-                <pubDate>12/18</pubDate>
-            </item>
-        
-            <item>
-                <title>RIDABL</title>
-                <link>https://images.advisorycloud.com/9be8858c-70d4-4bd6-acc9-14320e7d3953.png</link>
-                <description>Revolutionizing Transportation: Ridabl&#x27;s All-in-One Platform for On-Demand Automotive Services and S...</description>
-                <pubDate>12/18</pubDate>
-            </item>
-        
-            <item>
-                <title>Business Professionals Peer Advisory Board...</title>
-                <link>https://images.advisorycloud.com/6e58fffe-18f6-4cd5-b51d-1ac5e04214d4.png</link>
-                <description>A place to share and discuss ideas and topics with other business professionals across industries.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>Julian Rawle Consulting LLC</title>
-                <link>https://images.advisorycloud.com/d54f2ecc-172c-4e66-9b36-3ab896394881.png</link>
-                <description>Pioneering Precision: Unrivaled Expertise in Submarine Fiber Optic Cable Business Cases and Forecast...</description>
-                <pubDate>12/19</pubDate>
             </item>
         
             <item>
@@ -162,8 +57,15 @@
             <item>
                 <title>La Polié</title>
                 <link>https://images.advisorycloud.com/b7043232-3c68-48f3-b2d2-081c701fc05d.png</link>
-                <description></description>
+                <description>A luxury fragrance brand.</description>
                 <pubDate>12/24</pubDate>
+            </item>
+        
+            <item>
+                <title>Beauty Makes Cents</title>
+                <link>https://images.advisorycloud.com/8477bc54-20b9-4bf2-8f70-54ff5ec8d989.png</link>
+                <description>Hyper-personalized beauty &amp; wellness experiences that deliver enhanced well-being, accessibility, an...</description>
+                <pubDate>12/30</pubDate>
             </item>
         
             <item>
@@ -223,6 +125,13 @@
             </item>
         
             <item>
+                <title>360win LLC</title>
+                <link>https://images.advisorycloud.com/77d574c1-8df7-437c-8e00-fe2d99d2d2bc.png</link>
+                <description>Free-to-play online poker tournaments for winnings and for charity.</description>
+                <pubDate>1/7</pubDate>
+            </item>
+        
+            <item>
                 <title>Kangaroo.Auction</title>
                 <link>https://images.advisorycloud.com/2528dd0c-f682-45e2-bfb0-c2fc7225ae08.png</link>
                 <description>The first P2P marketplace with affiliate sales commissions!</description>
@@ -230,10 +139,10 @@
             </item>
         
             <item>
-                <title>Callbotics</title>
-                <link>https://images.advisorycloud.com/d8d705ee-35e2-4768-8dcb-740790af45d7.png</link>
-                <description>Callbotics: Revolutionizing Healthcare Communication with AI-Powered, Industry-Specific Call Automat...</description>
-                <pubDate>1/7</pubDate>
+                <title>RL Food Testing Laboratory, Inc.</title>
+                <link>https://images.advisorycloud.com/b66a88a1-5d70-4ce8-9b68-0169e77d64b1.png</link>
+                <description>Transforming food safety standards to empower every manufacturer toward unmatched quality and trust.</description>
+                <pubDate>1/8</pubDate>
             </item>
         
             <item>
@@ -248,6 +157,13 @@
                 <link>https://images.advisorycloud.com/9ebecd5c-3935-4551-ad0e-bb1799c8f3f8.png</link>
                 <description>Innovative life insurance solutions for academic success and beyond.</description>
                 <pubDate>1/8</pubDate>
+            </item>
+        
+            <item>
+                <title>855 R.U.N PAIN, LLC</title>
+                <link>https://images.advisorycloud.com/edcbd8fc-7be9-4b57-9726-9826cc48b8c5.png</link>
+                <description>Revolutionizing professional networking to empower solopreneurs across five key states.</description>
+                <pubDate>1/9</pubDate>
             </item>
         
             <item>
@@ -314,6 +230,13 @@
             </item>
         
             <item>
+                <title>AwesomeROI</title>
+                <link>https://images.advisorycloud.com/f157a0d3-6df6-4e72-af5a-e9874fa5990a.png</link>
+                <description>Transforming investments by delivering unparalleled ROI solutions across industries.</description>
+                <pubDate>1/15</pubDate>
+            </item>
+        
+            <item>
                 <title>CSCONNECT</title>
                 <link>https://images.advisorycloud.com/92abc4b9-e182-4a6f-871a-ee4f198b74f5.png</link>
                 <description>Revolutionizing Dining: AI-Powered AR Menus Boost Customer Engagement and Drive Restaurant Growth</description>
@@ -342,6 +265,13 @@
             </item>
         
             <item>
+                <title>Be the ONE Best</title>
+                <link>https://images.advisorycloud.com/89f638ca-3226-4ae1-989c-1d5a1d86c496.png</link>
+                <description>Empowering Executives to Become the ONE Best Candidate in Career Transitions</description>
+                <pubDate>1/17</pubDate>
+            </item>
+        
+            <item>
                 <title>DPI Showcase Web Sites</title>
                 <link>https://images.advisorycloud.com/8440f38b-b366-40d4-94cd-ec8fd2fa827a.png</link>
                 <description>Empowering real estate agents with competitive IDX websites that integrate MLS listings, enhancing c...</description>
@@ -356,16 +286,9 @@
             </item>
         
             <item>
-                <title>Most Loved Workplace</title>
-                <link>https://images.advisorycloud.com/ef121599-2917-4ead-987a-5743ae566f44.png</link>
-                <description>Data-driven insights and certification for enhanced employee engagement, retention, and overall prod...</description>
-                <pubDate>1/20</pubDate>
-            </item>
-        
-            <item>
                 <title>Operations Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/4b0f1cb5-4c4e-44f3-bf63-c542c08144ae.png</link>
-                <description>A place to share and discuss ideas and topics with other operations professionals.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -379,35 +302,42 @@
             <item>
                 <title>Technology Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/3dfd6639-44c3-4803-86d3-2ea8c32cbe10.png</link>
-                <description>A place to share and discuss ideas and topics with other technology professionals.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
             <item>
                 <title>Sales Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/34b9db9a-9155-4ea3-ab93-859aae4f5e43.png</link>
-                <description>A place to share and discuss ideas and topics with other sales professionals.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Current Commerce</title>
+                <link>https://images.advisorycloud.com/3f7a2c18-9367-491d-bda7-a04ebd73fd3d.png</link>
+                <description>Empowering brands with tailored digital marketing and e-commerce solutions for accelerated growth in...</description>
+                <pubDate>1/21</pubDate>
             </item>
         
             <item>
                 <title>Marketing Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/5fe01d15-3640-48c4-97e1-eb4b2d7a31ce.png</link>
-                <description>A place to share and discuss ideas and topics with other marketing professionals.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
             <item>
                 <title>Founder &amp; CEO Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/cc0c47ac-27ae-4a79-8e94-273bdbc743c0.png</link>
-                <description>A place to share and discuss ideas and topics with other Founders &amp; CEOs.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
             <item>
                 <title>Finance Peer Advisory Board</title>
                 <link>https://images.advisorycloud.com/d367a372-386f-4a8c-89f4-485e9b102c45.png</link>
-                <description>A place to share and discuss ideas and topics with other finance professionals.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -421,7 +351,7 @@
             <item>
                 <title>Human Resources Advisory Board</title>
                 <link>https://images.advisorycloud.com/b6c8f832-0b12-490a-9fe0-253d8a2861f4.png</link>
-                <description>A place to share and discuss ideas and topics with other HR professionals.</description>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -430,6 +360,13 @@
                 <link>https://images.advisorycloud.com/3c4a578c-c178-4da5-96bf-e9db9d820ff0.png</link>
                 <description>Driving scalable growth through comprehensive digital marketing strategies and operational excellenc...</description>
                 <pubDate>1/23</pubDate>
+            </item>
+        
+            <item>
+                <title>Product Peer Advisory Board</title>
+                <link>https://images.advisorycloud.com/8d2ff758-08aa-4d4f-9810-019cc6bf6697.png</link>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
+                <pubDate>N/A</pubDate>
             </item>
         
             <item>
@@ -444,6 +381,13 @@
                 <link>https://images.advisorycloud.com/d1cf86d2-38d2-471a-ab9d-3e5b3c709364.png</link>
                 <description>Empowering investors with cutting-edge quantitative research and technology to gain a competitive ed...</description>
                 <pubDate>1/23</pubDate>
+            </item>
+        
+            <item>
+                <title>Bposhtels</title>
+                <link>https://images.advisorycloud.com/e859dcc2-c86e-4a97-a034-1c7efd2d69ed.png</link>
+                <description>Bposhtels are Hostels inside Partner Hotels ! Multiple Central Locations catering to Solo Travelers</description>
+                <pubDate>1/28</pubDate>
             </item>
         
             <item>
@@ -464,6 +408,13 @@
                 <title>Dataintellico, LLC</title>
                 <link>https://images.advisorycloud.com/9e631951-2fcb-4bee-8101-64901848d5ae.png</link>
                 <description>Empowering organizations to transform data into strategic advantage through advanced analytics.</description>
+                <pubDate>1/30</pubDate>
+            </item>
+        
+            <item>
+                <title>Pata Pal</title>
+                <link>https://images.advisorycloud.com/41ec4d1b-25ac-4c57-a9c3-23b20854cd1c.png</link>
+                <description>Transforming the pet industry by revolutionizing retail with irresistible, innovative toys.</description>
                 <pubDate>1/30</pubDate>
             </item>
         
@@ -499,6 +450,13 @@
                 <title>DeepXL</title>
                 <link>https://images.advisorycloud.com/bef659f3-04f2-426c-a4d3-783379f089d4.png</link>
                 <description>A deepfake detection framework for a safer and more authentic online environment for all.</description>
+                <pubDate>2/5</pubDate>
+            </item>
+        
+            <item>
+                <title>Happy Agencies</title>
+                <link>https://images.advisorycloud.com/5dbb8276-387d-4d31-b1ec-f1235edf6d86.png</link>
+                <description>We are not an agency. We work for Agencies &amp; Marketing Teams</description>
                 <pubDate>2/5</pubDate>
             </item>
         
@@ -541,6 +499,13 @@
                 <title>GyftHint</title>
                 <link>https://images.advisorycloud.com/86775a9a-c532-46ee-a9eb-a2004262f2d6.png</link>
                 <description>A wish-list aggregator for better gifting among friends &amp; family that gives retailers a boost, too.</description>
+                <pubDate>2/12</pubDate>
+            </item>
+        
+            <item>
+                <title>Call HR Now</title>
+                <link>https://images.advisorycloud.com/7cdb9a00-836e-4702-a140-adb2afd186d7.png</link>
+                <description>Transforming HR: Comprehensive Solutions for Compliance, Talent, and Organizational Excellence.</description>
                 <pubDate>2/12</pubDate>
             </item>
         
@@ -615,10 +580,38 @@
             </item>
         
             <item>
+                <title>.scene</title>
+                <link>https://images.advisorycloud.com/5e5efc50-f2cd-473c-9971-45fe47d29082.png</link>
+                <description>Building a social API that will enable AI to help empower people to create positive change.</description>
+                <pubDate>3/11</pubDate>
+            </item>
+        
+            <item>
+                <title>Friends of Parkinson&#x27;s Inc.</title>
+                <link>https://images.advisorycloud.com/5928d4f6-caca-49c9-bc4b-fd0f93ab42be.png</link>
+                <description>Local, national, and international support for communities related to Parkinson‘s Disease.</description>
+                <pubDate>3/11</pubDate>
+            </item>
+        
+            <item>
                 <title>RenMind</title>
                 <link>https://images.advisorycloud.com/2d21bbcd-9088-4e5b-bfda-51c2da95f014.png</link>
                 <description>Empowering Product Leaders with Innovative Design Thinking and Experience-Driven Solutions</description>
                 <pubDate>3/18</pubDate>
+            </item>
+        
+            <item>
+                <title>Stories For Generations</title>
+                <link>https://images.advisorycloud.com/30221bd3-dd4d-4071-a344-5426b1822389.png</link>
+                <description>We bring personalized stories to life with professional music and sound design.</description>
+                <pubDate>3/19</pubDate>
+            </item>
+        
+            <item>
+                <title>Ayuda Health</title>
+                <link>https://images.advisorycloud.com/b7a3f6cb-2a12-413a-bcdf-e929e83120ac.png</link>
+                <description>An early-stage digital health company helping patients living with chronic disease.</description>
+                <pubDate>3/26</pubDate>
             </item>
         
             <item>
@@ -643,6 +636,13 @@
             </item>
         
             <item>
+                <title>Venture Equities</title>
+                <link>https://images.advisorycloud.com/6bce8255-2d81-4d87-973e-a01f1973456c.png</link>
+                <description>Empowering exceptional management teams through strategic investments and founder-friendly acquisiti...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>WORKSCAPE DESIGNS</title>
                 <link>https://images.advisorycloud.com/2968c1d5-0f53-4461-b01b-aee96d915cbe.png</link>
                 <description>Transforming workplaces globally into inspiring environments that maximize productivity and talent.</description>
@@ -664,9 +664,37 @@
             </item>
         
             <item>
+                <title>Business Professionals Peer Advisory Board...</title>
+                <link>https://images.advisorycloud.com/6e58fffe-18f6-4cd5-b51d-1ac5e04214d4.png</link>
+                <description>Join our monthly board meetings to discuss career opportunities, networking, compensation trends, an...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>Animotion Products, Inc</title>
                 <link>https://images.advisorycloud.com/2502258d-5a06-42e6-8c25-e340fc045170.png</link>
                 <description></description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>GoodRenewable</title>
+                <link>https://images.advisorycloud.com/0519f9c0-7559-470d-affc-41f647d3a9ef.png</link>
+                <description>Bridging the gap between AI-powered analytics and local ambassadors to boost renewable energy projec...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Earthbound Automation</title>
+                <link>https://images.advisorycloud.com/f238dd48-20c8-41ce-acd6-41349f36891e.png</link>
+                <description>Optimizing Industrial Control Systems: Earthbound Automation Boosts Efficiency and Output for Manufa...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Industrial Cleaning &amp; Maintenance</title>
+                <link>https://images.advisorycloud.com/d95f4d1b-2895-4513-97a4-c61ddbeff2f5.png</link>
+                <description>ACQUISITION UNDER CONSIDERATION: A trusted industrial maintenance partner with 20 Years of specializ...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -678,13 +706,6 @@
             </item>
         
             <item>
-                <title>360win LLC</title>
-                <link>https://images.advisorycloud.com/77d574c1-8df7-437c-8e00-fe2d99d2d2bc.png</link>
-                <description>Free-to-play online poker tournaments for winnings and for charity.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
                 <title>MUV Technologies</title>
                 <link>https://images.advisorycloud.com/d24e41c7-294e-437e-ab67-7717ac5c5b4d.png</link>
                 <description>Trusted rideshare partner in Houston.</description>
@@ -692,9 +713,30 @@
             </item>
         
             <item>
+                <title>Bloom</title>
+                <link>https://images.advisorycloud.com/3a2531df-26db-49e9-8806-1e5445912acd.png</link>
+                <description>Revolutionizing personal wellness with an all-in-one health app that generates smart insights from w...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Jennifer&#x27;s Cake Designs LLC</title>
+                <link>https://images.advisorycloud.com/8aa2513c-2539-4bc0-ad8f-7d2918366d1f.png</link>
+                <description>Crafting Edible Masterpieces: Where Artistry Meets Flavor in Custom Cake Design</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>Chicago Recruiting Forum, Inc.</title>
                 <link>https://images.advisorycloud.com/25f6c283-e34d-43f0-84e7-c1ea80601cd4.png</link>
                 <description>Transforming Recruiting and Placing Game-Changing Talent: Chicago Recruiting Forum&#x27;s Agile Approach ...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>RIDABL</title>
+                <link>https://images.advisorycloud.com/9be8858c-70d4-4bd6-acc9-14320e7d3953.png</link>
+                <description>Revolutionizing Transportation: Ridabl&#x27;s All-in-One Platform for On-Demand Automotive Services and S...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -709,6 +751,20 @@
                 <title>Lost in the Astral LLC</title>
                 <link>https://images.advisorycloud.com/139be097-89c8-493f-b0e6-895baba31956.png</link>
                 <description>Empowering personal transformation by blending intuitive guidance and practical tools for spiritual ...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Callbotics</title>
+                <link>https://images.advisorycloud.com/d8d705ee-35e2-4768-8dcb-740790af45d7.png</link>
+                <description>Callbotics: Revolutionizing Healthcare Communication with AI-Powered, Industry-Specific Call Automat...</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
+                <title>Plero</title>
+                <link>https://images.advisorycloud.com/b0e37743-e50b-43f4-b3f1-2d98d90255c8.png</link>
+                <description>Empowering nonprofits with sustainable funding: Plero revolutionizes financial stability through inn...</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -797,6 +853,13 @@
             </item>
         
             <item>
+                <title>MindPod Technologies</title>
+                <link>https://images.advisorycloud.com/81aa2440-cf5e-4046-9951-f29f4be327de.png</link>
+                <description>Comprehensive IT consulting services, from initial design to full-scale implementation.</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>RadixTop IT</title>
                 <link>https://images.advisorycloud.com/1df9727e-fd2e-4ddb-b2b4-8aa2c635fc75.png</link>
                 <description>Technology advisory support, IT services, and capability enablement, with care and transparency.</description>
@@ -818,23 +881,16 @@
             </item>
         
             <item>
+                <title>BluePrint Publishing</title>
+                <link>https://images.advisorycloud.com/5dcd0bba-bf01-4a79-81b0-2582ee37c083.png</link>
+                <description>Publishing 21st century integrated and innovative education.</description>
+                <pubDate>N/A</pubDate>
+            </item>
+        
+            <item>
                 <title>CEDEM AG</title>
                 <link>https://images.advisorycloud.com/9fba20c2-5130-4b7c-b3fd-c2431ba2fa0f.png</link>
                 <description>Swiss Vitality in Every Dose</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>FlipType</title>
-                <link>https://images.advisorycloud.com/714c0089-d9ed-4e98-8d87-7393f45b589a.png</link>
-                <description>Enhancing workflow with AI to achieve more in less time.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>Happy Agencies</title>
-                <link>https://images.advisorycloud.com/5dbb8276-387d-4d31-b1ec-f1235edf6d86.png</link>
-                <description>We are not an agency. We work for Agencies &amp; Marketing Teams</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -1000,9 +1056,9 @@
             </item>
         
             <item>
-                <title>Stories For Generations</title>
-                <link>https://images.advisorycloud.com/30221bd3-dd4d-4071-a344-5426b1822389.png</link>
-                <description>We bring personalized stories to life with professional music and sound design.</description>
+                <title>Dreams Fulfilled Corporation</title>
+                <link>https://images.advisorycloud.com/63360c83-3644-4cba-aaad-11bf28abdfee.png</link>
+                <description>Lean Six-Sigma Kaizen consulting.</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -1021,16 +1077,16 @@
             </item>
         
             <item>
-                <title>Product Peer Advisory Board</title>
-                <link>https://images.advisorycloud.com/8d2ff758-08aa-4d4f-9810-019cc6bf6697.png</link>
-                <description>A place to share and discuss ideas and topics with other product professionals.</description>
+                <title>Vaultoniq</title>
+                <link>https://images.advisorycloud.com/b1674dc9-f879-483e-b5e6-a871051aedb5.png</link>
+                <description>AI-powered operating system for the collision repair industry.</description>
                 <pubDate>N/A</pubDate>
             </item>
         
             <item>
-                <title>Vaultoniq</title>
-                <link>https://images.advisorycloud.com/b1674dc9-f879-483e-b5e6-a871051aedb5.png</link>
-                <description>AI-powered operating system for the collision repair industry.</description>
+                <title>FreeStyle, LLC</title>
+                <link>https://images.advisorycloud.com/cc5bf2f6-0f50-40dc-a58d-81b4a7cd8684.png</link>
+                <description>Combining technology, info sharing, and trust to scale word-of-mouth referrals.</description>
                 <pubDate>N/A</pubDate>
             </item>
         
@@ -1119,93 +1175,9 @@
             </item>
         
             <item>
-                <title>Ayuda Health</title>
-                <link>https://images.advisorycloud.com/b7a3f6cb-2a12-413a-bcdf-e929e83120ac.png</link>
-                <description>An early-stage digital health company helping patients living with chronic disease.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
                 <title>Plumlogix</title>
                 <link>https://images.advisorycloud.com/2ad1f7a4-c31e-4bd8-94d7-f52970d37911.png</link>
                 <description>Salesforce consulting for CIOs.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>Friends of Parkinson&#x27;s Inc.</title>
-                <link>https://images.advisorycloud.com/5928d4f6-caca-49c9-bc4b-fd0f93ab42be.png</link>
-                <description>Local, national, and international support for communities related to Parkinson‘s Disease.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>I.T. Consulting St Petersburg LLC</title>
-                <link>https://images.advisorycloud.com/70db8419-65d5-459d-afff-1b4f2f259c0c.png</link>
-                <description>CvCISO, Information Security &amp; Risk Assessments (incl. ISO27001), Cybersecurity, and IT supply chain...</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>SureFire Capital</title>
-                <link>https://images.advisorycloud.com/ac18ef07-acd6-4d41-ac81-7f20b0f85caa.png</link>
-                <description>Niche hedge funds for high net worth and family office investors.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>Top10ERP.org</title>
-                <link>https://images.advisorycloud.com/0465d577-8b56-421d-86b4-c6478ed3171d.png</link>
-                <description>Online software decision support for manufacturing and distribution businesses.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>The EAT Community</title>
-                <link>https://images.advisorycloud.com/107c2902-97bf-408b-8d31-db502a7d150a.png</link>
-                <description>Online sustainability education and support for today&#x27;s eco-entrepreneurs.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>COMPETE Co.</title>
-                <link>https://images.advisorycloud.com/5b5c23f4-73f6-4778-b68b-d993cef3a736.png</link>
-                <description>Revolutionizing sports through gamification.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>CICA</title>
-                <link>https://images.advisorycloud.com/c660525f-6dc9-4e51-a9f2-3bfb1211c75b.png</link>
-                <description>Professional development services for professionals in the finance and tax industries.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>OVIS</title>
-                <link>https://images.advisorycloud.com/176a6e2f-df76-4df0-87aa-61378ad7d6bc.png</link>
-                <description>Blockchain-powered decentralized media network of factual, unbiased news, for the discerning public.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>ShareWaves</title>
-                <link>https://images.advisorycloud.com/dbb0a8e5-efbd-4acc-be36-3774fe11c2a5.png</link>
-                <description>Advancing opportunities for every child to experience the life-enriching power of sports.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>Parentfile</title>
-                <link>https://images.advisorycloud.com/af7fb1fb-a334-448c-aac6-7140b463f8f2.png</link>
-                <description>A new and improved way for parents to pass things down to their children.</description>
-                <pubDate>N/A</pubDate>
-            </item>
-        
-            <item>
-                <title>QualityMD</title>
-                <link>https://images.advisorycloud.com/73cb28f4-746e-4a58-843e-73c89e2567ba.png</link>
-                <description>A new healthcare model that delivers full-service primary-care to everyone in need.</description>
                 <pubDate>N/A</pubDate>
             </item>
         
